@@ -1,0 +1,57 @@
+body {
+    background-color: #b7ffff;
+    font-family: "微軟正黑體", "Time New Roman";
+}
+
+.jumbotron {
+    background-color: #09245e;
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    top: 0px;
+}
+
+.btn {
+    font-size: 15px;
+    height: 40px;
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 35%;
+    font-weight: bold;
+}
+
+.iframeSize {
+    display: block;
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    overflow: hidden;
+    width: 300px;
+    height: 400px;
+    padding: 0px;
+    overflow: hidden;
+    position: relative;
+}
+
+.navSet {
+    color: #0a0361;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+div {
+    font-size: 16px;
+    text-align: center;
+    margin-left: 10px; 
+}
+
+#content {
+    text-align: left;
+}

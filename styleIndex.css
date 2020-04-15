@@ -1,0 +1,20 @@
+a.badge-pill:hover, a.badge-pill:active {
+	font-size: 150%;
+}
+
+div.add_btn_area{
+	padding-bottom: 20px;
+}
+
+div.content {
+	min-height: 400px;
+}
+
+table th{
+	background-color: black;
+	color: gray;
+}
+
+.carousel-inner img {
+width:100%;
+}
